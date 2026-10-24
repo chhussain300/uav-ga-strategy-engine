@@ -1,0 +1,34 @@
+
+=== GA seed 0 ===
+gen    0 best -5.2240 avg -13.5405 div 22.86 cov 0.784 feas False
+gen   10 best 0.5533 avg 0.1817 div  5.61 cov 0.729 feas False
+gen   20 best 0.8009 avg 0.5838 div  4.16 cov 0.774 feas True
+gen   30 best 0.8491 avg 0.1621 div  6.45 cov 0.831 feas True
+gen   40 best 0.8972 avg 0.1961 div  5.98 cov 0.859 feas True
+gen   50 best 0.9436 avg -0.9390 div  6.74 cov 0.897 feas True
+gen   60 best 0.9436 avg 0.5289 div  4.23 cov 0.897 feas True
+gen   70 best 0.9722 avg 0.3049 div  5.76 cov 0.912 feas True
+gen   80 best 0.9722 avg 0.3965 div  5.44 cov 0.912 feas True
+gen   90 best 0.9891 avg 0.3252 div  5.36 cov 0.917 feas True
+gen  100 best 0.9891 avg 0.2502 div  5.39 cov 0.917 feas True
+gen  110 best 1.0129 avg -0.5994 div  6.65 cov 0.918 feas True
+gen  120 best 1.0129 avg 0.5311 div  4.62 cov 0.918 feas True
+gen  130 best 1.0129 avg 0.3207 div  5.60 cov 0.918 feas True
+gen  140 best 1.0173 avg 0.0891 div  5.71 cov 0.919 feas True
+gen  150 best 1.0254 avg 0.2682 div  5.56 cov 0.924 feas True
+seed 0: GA 1.0254 | random search -3.0820
+
+=== GA seed 1 ===
+seed 1: GA 0.9841 | random search -3.1081
+
+=== GA seed 2 ===
+seed 2: GA 0.9837 | random search -3.4108
+
+=== GA seed 3 ===
+seed 3: GA 0.9376 | random search -2.4018
+
+=== GA seed 4 ===
+seed 4: GA 1.0084 | random search -1.4453
+
+GA mean fitness 0.988 | random -2.690
+Outputs written to outputs

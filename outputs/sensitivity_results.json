@@ -1,0 +1,62 @@
+{
+  "Population size=20": {
+    "mean": 0.4338544243147295,
+    "std": 0.11879641646930024,
+    "evals": 1622.0
+  },
+  "Population size=50": {
+    "mean": 0.4690092493345135,
+    "std": 0.044505206849409486,
+    "evals": 3892.0
+  },
+  "Population size=100": {
+    "mean": 0.5557122002166545,
+    "std": 0.04659302573065656,
+    "evals": 7782.0
+  },
+  "Population size=200": {
+    "mean": 0.6679993937741072,
+    "std": 0.03366600561645355,
+    "evals": 15562.0
+  },
+  "Mutation rate=0.02": {
+    "mean": 0.9495311994479615,
+    "std": 0.013612077665956448,
+    "evals": 4702.0
+  },
+  "Mutation rate=0.1": {
+    "mean": 0.8175645540727233,
+    "std": 0.06207842866593594,
+    "evals": 4702.0
+  },
+  "Mutation rate=0.2": {
+    "mean": 0.476465004802107,
+    "std": 0.04153737392470767,
+    "evals": 4702.0
+  },
+  "Mutation rate=0.4": {
+    "mean": 0.08381982468931044,
+    "std": 0.04830308945199321,
+    "evals": 4702.0
+  },
+  "Tournament size k (selection pressure)=2": {
+    "mean": 0.3109535999784732,
+    "std": 0.028681856623294772,
+    "evals": 4702.0
+  },
+  "Tournament size k (selection pressure)=3": {
+    "mean": 0.476465004802107,
+    "std": 0.04153737392470767,
+    "evals": 4702.0
+  },
+  "Tournament size k (selection pressure)=5": {
+    "mean": 0.5961433044619314,
+    "std": 0.07517786942853177,
+    "evals": 4702.0
+  },
+  "Tournament size k (selection pressure)=10": {
+    "mean": 0.791524046395735,
+    "std": 0.04809306331273428,
+    "evals": 4702.0
+  }
+}
